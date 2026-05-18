@@ -9,9 +9,9 @@ This repository documents my progress through CS50's Introduction to Programming
 - Prepare for future AI projects
 
 ## Structure
-- lecture 0
-- lecture 1 
-- lecture 2
+- Lecture 0
+- Lecture 1 
+- Lecture 2
 - etc
 
 ## Extra Projects
