@@ -1,4 +1,4 @@
-# CS50 Python
+# CS50-Python
 
 This repository documents my progress through CS50's Introduction to Programming with Python.
 
