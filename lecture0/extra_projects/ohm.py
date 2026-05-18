@@ -1,6 +1,6 @@
 info = " "
 while info.upper() != "I" and info.upper() != "R" and info.upper() != "U":
-    info = input("What do you want to calculate? U or R or I? ")
+    info = input("What do you want to calculate? U, R or I? ")
 
 if info.upper() == "U":
     R = float(input("What's R? "))
