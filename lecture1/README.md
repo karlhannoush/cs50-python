@@ -1,91 +1,66 @@
 # Lecture 1 — Conditionals
 
-This folder contains my solutions for CS50P Lecture 1, focused on conditionals, branching logic, and decision-making in Python.
+This folder contains my solutions for CS50P Lecture 1.
 
-## Topics Covered
-
-- `if`, `elif`, `else`
-- boolean logic
-- string methods
+This lecture focused mainly on:
+- conditionals
+- branching logic
 - functions
-- user input validation
-- branching and program flow
+- program flow
+- decision making in Python
 
----
-
-## Problem Set Solutions
+## Problem Set
 
 ### deep.py
-Checks whether the user knows the Answer to the Great Question of Life, the Universe and Everything.
-
-Concepts practiced:
-- string normalization
-- conditional logic
-
----
+Checks if the user knows the answer to the “Great Question of Life”.
 
 ### bank.py
-Implements a greeting-based banking reward system.
-
-Concepts practiced:
-- `.startswith()`
-- nested conditionals
-
----
+Implements a greeting-based reward system depending on how the user greets the bank.
 
 ### extensions.py
-Determines a file's MIME type based on its extension.
-
-Concepts practiced:
-- file extension handling
-- chained conditionals
-
----
+Determines a file’s MIME type based on its extension.
 
 ### interpreter.py
 A simple arithmetic interpreter that evaluates expressions entered by the user.
 
-Concepts practiced:
-- string parsing
-- arithmetic operations
-- operator detection
-
----
-
 ### meal.py
-Determines whether it is breakfast, lunch, or dinner time based on user input.
-
-Concepts practiced:
-- functions
-- time conversion
-- floating-point calculations
+Determines whether it’s breakfast, lunch, or dinner time based on the current time.
 
 ---
 
-## Extra Project — Calculator Hub
+# Extra Project — Calculator Hub
 
-A larger multi-tool calculator application built to reinforce Lecture 1 concepts through practical application.
+This was my first larger Python project.
 
-Includes:
+I combined multiple calculators into one menu-driven terminal application:
 - basic calculator
 - Ohm’s law calculator
 - BMI calculator
 - temperature converter
 
-This project helped strengthen:
-- modular programming
-- validation logic
-- program organization
-- interactive terminal applications
+Unlike the official lecture content, this project also uses concepts I had previously learned in my university programming course, especially loops and more advanced program organization.
+
+The main goal of this project was to push beyond small isolated exercises and start building something larger and more structured.
+
+This project taught me a lot about:
+- debugging larger programs
+- organizing code into functions
+- handling invalid inputs
+- improving user interaction
+- refining code through multiple iterations
+
+It also showed me how quickly program complexity grows when combining multiple systems into one application.
 
 ---
 
-## Skills Developed
+## What I Learned
 
-Through this lecture and the extra project, I practiced:
-- writing cleaner conditional logic
-- structuring larger programs
-- debugging more complex systems
-- improving user experience
-- handling edge cases
-- building more organized Python programs
+This lecture and the extra project helped me improve:
+- conditional logic
+- program structure
+- modular programming
+- debugging
+- validation systems
+- problem-solving under complexity
+
+The Calculator Hub project took significantly longer than expected, but it was my first experience building and refining a larger terminal application from scratch.
