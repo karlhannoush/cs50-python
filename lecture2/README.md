@@ -84,11 +84,3 @@ Main concepts practiced:
 - decomposition into smaller subproblems
 
 This project took significantly more effort than the lecture exercises and involved multiple redesigns and debugging sessions, especially for the sentence counter logic.
-
----
-
-## Notes
-
-I already had some prior exposure to Python from a university programming course before starting CS50P, so some concepts used in these projects go slightly beyond the exact lecture material.
-
-The focus of this repository is not just completing the exercises, but building programming fluency through additional projects and experimentation.
