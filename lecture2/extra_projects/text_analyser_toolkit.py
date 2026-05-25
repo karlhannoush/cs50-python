@@ -29,10 +29,8 @@ def main():
             user = "1"
 
 def char_count():
-    count = 0
     string = input("Your text: ")
-    for char in string:
-        count+=1
+    count = len(string)
     print (f"Your text has {count} characters\n")
 
 def word_count():
